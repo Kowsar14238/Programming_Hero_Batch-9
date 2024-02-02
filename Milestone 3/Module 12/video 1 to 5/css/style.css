@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body-content{
+    margin: 2% 6%;
+    background-color:#edededc2;
+}
