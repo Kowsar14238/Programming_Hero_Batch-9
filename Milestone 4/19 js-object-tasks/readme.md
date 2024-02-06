@@ -11,6 +11,7 @@ const colors = {
 **Output:**
 
 <br>
+![t-1](https://github.com/Kowsar14238/Programming_Hero_Batch-9/assets/88027531/ca85ec91-5b68-483c-9d21-f6ccedf32fa0)
 
 ---
 ### Task-2
@@ -25,6 +26,7 @@ const car = {
 **Output:**
 
 <br>
+![t-2](https://github.com/Kowsar14238/Programming_Hero_Batch-9/assets/88027531/cab55c83-e0f2-4713-94fc-ae7a7481481e)
 
 ---
 ### Task-3
@@ -43,8 +45,10 @@ const student = {
 **Output:**
 
 <br>
+![t-3](https://github.com/Kowsar14238/Programming_Hero_Batch-9/assets/88027531/d66844d6-1c6d-4a6b-93fb-936536c1a268)
 
 ---
+
 
 ### Task-4
 
@@ -63,6 +67,7 @@ let student = {
 **Output:**
 
 <br>
+![t-4](https://github.com/Kowsar14238/Programming_Hero_Batch-9/assets/88027531/eb10dced-db0a-4293-be86-28580c6730d7)
 
 ---
 ### Task-5 (Hard)
@@ -84,5 +89,6 @@ let myObject = {
 **Output:**
 
 <br>
+![t-5](https://github.com/Kowsar14238/Programming_Hero_Batch-9/assets/88027531/3adfcf69-ba2d-41bd-8e47-b0134907a070)
 
 ---
